@@ -1,2 +1,2 @@
-# hello-world
-my first test
+x= input('')
+print(x)
